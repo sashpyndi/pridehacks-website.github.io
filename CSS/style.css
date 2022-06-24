@@ -1,9 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
 h1{
     text-align:center;
+    color:blue;
 }
 h2{
     text-align:center;
+    color: blue;
 }
 nav{
     text-align:center;
+    color: blue;
+    font-family:  Tahoma, sans-serif;
+}
+
+header{
+    background-color: lightpink;
+    margin-left: 200px;
+    margin-right: 200px;
+   padding-top:5px;
+   padding-bottom:20px;
+   border-radius: 20px;
+}
+body{
+    background-color: lightblue;
+}
+a{
+    color: darkblue;
+
 }
