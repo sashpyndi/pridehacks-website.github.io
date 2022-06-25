@@ -1,35 +1,65 @@
 @import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
-h1{
-    text-align:center;
-    color:blue;
+
+h1 {
+    text-align: center;
+    color: blue;
 }
-h2{
-    text-align:center;
+
+h2 {
+    text-align: center;
     color: blue;
     font-size: 30px;
 }
-nav{
-    text-align:center;
+
+nav {
+    text-align: center;
     color: blue;
-    font-family:  Tahoma, sans-serif;
+    font-family: Tahoma, sans-serif;
 }
 
-header{
+header {
     background-color: lightpink;
     margin-left: 200px;
     margin-right: 200px;
-   padding-top:5px;
-   padding-bottom:20px;
-   border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    border-radius: 20px;
 }
-body{
+
+body {
     background-color: lightblue;
 }
-a{
+
+a {
     color: darkblue;
 
 }
 
-footer{
+footer {
     text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    background-color: lightpink;
+}
+img{
+    margin-left:400px;
+    margin-right:auto;
+
+}
+.validatorButtons{
+
+    margin-left:100px;
+    margin-right: 500px;
+
+    
+
+}
+p{
+ font-size: 20px;
+ font-family: Tahoma, san-serif;
+ margin-left: 100px;
+ margin-right: 100px;
 }
