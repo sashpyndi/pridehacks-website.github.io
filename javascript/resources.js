@@ -20,8 +20,8 @@ $(document).ready(function () {
                 $.each(this, function (key, value) {
                     $("#Resources").append(
                         "<h3>" + value.name + "<h3>" +
-                        "<p>" + value.symptoms + "<h3>" +
-                        "<img src = " + value.image + ">" +
+                        "<p>" + value.phoneNumber + "<p>" +
+                       "<p>" + value.desciption + "<p>"+
                         "<br><br>"
 
                     );
