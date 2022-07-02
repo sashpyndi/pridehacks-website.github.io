@@ -4,7 +4,7 @@ $(document).ready(function () {
 
     $.ajax({
         type: "get",
-        url: "std's.json",
+        url: "resources.json",
 
         beforeSend: function () {
             $("#Resources").html("Loading...");
